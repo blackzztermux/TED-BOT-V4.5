@@ -13,7 +13,7 @@ function generateMenu() {
     const { date, time } = getCurrentDateTime();
 
     return `
-🎄✨🎅 𝑭𝑬𝑳𝑰𝑵𝑨𝑳 𝑵𝑨𝑻𝑨𝑳 🎅✨🎄
+🎄✨🎅 OI MEU CHAPA LUFFY SPEAKING🎗🎗
 ╔═══❄️∘◦🎄◦∘❄️═══╗
        *${config.NomeDoBot}*
 ╚═══❄️∘◦🎄◦∘❄️═══╝
